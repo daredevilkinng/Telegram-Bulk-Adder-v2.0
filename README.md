@@ -39,13 +39,13 @@
 
 `python3 bulk.py --continue`
 
-# Pricse of software is 42USD$ 
+# Pricse of software is 40USD$ 
 
 # Note
 
 When you're done adding. I'll suggest you to use those numbers after 25 hours to prevent limit on numbers .
 
-# Support | Gallery :dart:
+# Support | Video :dart:
 <p align='center'>
   For any issue or help join our <a href='https://telegram.me/daredevilkinng'> Hub </a><br><br>
   <img src="++++" width="500" height="300"><br>
