@@ -1,2 +1,63 @@
-# Bulky-Adder-v2.0
-Powerful Telegram Members Bulk Adding Toolkit. No need of scraping, adding Blah Blah...........
+# :fire: Bulky V2.0
+<p align='center'>
+  Powerful Telegram Members Scraping and Adding Toolkit<br>
+  <a href="https://telegram.me/daredevilkinng"><img src="https://img.shields.io/badge/Contact_Me-green"></a> 
+  </p>
+
+# :small_red_triangle_down: Features :small_red_triangle:
+
+* ADDS IN BULK[by user id, not by username]
+* Scrapes and adds to public groups
+* Adds 50-60 members on an average
+* Works in Windows, Linux, Android systems
+* You can run unlimited accounts at the same time in order to add members
+* Powerful scraping tool that can scrape active members from any group
+* You can add members both by username and by user ID
+* Filter for every numbers (BAN-Filter)safety first
+* Script auto-joins public group from all accounts for faster adding
+* Filters accounts and protect them, making things easy
+* Bulk Adder can also store unlimited accounts for adding purposes
+* Adding scripts launches automatically based on number of accounts to use
+
+# How to use :question:
+
+:cyclone: Install Requirements
+
+`pip install -r requirements.txt`
+
+:cyclone: Read the complete tutorial `HOW_TO_USE.txt` and use it
+
+* Add your accounts to add and scrape members
+
+`python3 bulk.py --add`
+
+* Creating Sessions
+
+`python3 bulk.py --check`
+
+* Add members
+
+`python3 bulk.py --continue`
+
+# Pricse of software is 42USD$ 
+
+# Note
+
+When you're done adding. I'll suggest you to use those numbers after 25 hours to prevent limit on numbers .
+
+# Support | Gallery :dart:
+<p align='center'>
+  For any issue or help join our <a href='https://telegram.me/daredevilkinng'> Hub </a><br><br>
+  <img src="++++" width="500" height="300"><br>
+  <img src="++++" width="500" height="250">
+  </p>
+  
+# Warning :warning:
+
+* This tool is completely professional to use.
+
+# News
+
+* Adding in private groups feature will be available soon
+
+* Seperate tool will be launched for Linux/Android(for private groups)
