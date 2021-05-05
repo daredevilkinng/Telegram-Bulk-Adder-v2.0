@@ -8,7 +8,7 @@
 
 * ADDS IN BULK[by user id, not by username]
 * Scrapes and adds to public groups
-* Adds 50-60 members on an average
+* Adds 50-60 members on an average with just only single number.
 * Works in Windows, Linux, Android systems
 * You can run unlimited accounts at the same time in order to add members
 * Powerful scraping tool that can scrape active members from any group
