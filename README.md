@@ -48,7 +48,7 @@ When you're done adding. I'll suggest you to use those numbers after 25 hours to
 # Support | Video :dart:
 
   <p align="center">
-  Follow Me On
+  CONTACT ME ON TELEGRAM
 </p>
 <p align="center">
   <a href="https://telegram.me/daredevilkinng">
@@ -58,7 +58,7 @@ When you're done adding. I'll suggest you to use those numbers after 25 hours to
   
   
   <p align="center">
-  Follow Me On
+  Follow Me On YouTube
 </p>
 <p align="center">
   <a href="https://www.youtube.com/watch?v=9JmiVXSLwGg">
