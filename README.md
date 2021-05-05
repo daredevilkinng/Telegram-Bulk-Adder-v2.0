@@ -46,11 +46,15 @@
 When you're done adding. I'll suggest you to use those numbers after 25 hours to prevent limit on numbers .
 
 # Support | Video :dart:
-<p align='center'>
-  For any issue or help join our <a href='https://telegram.me/daredevilkinng'> Hub </a><br><br>
-  <img src="++++" width="500" height="300"><br>
-  <img src="++++" width="500" height="250">
-  </p>
+
+  <p align="center">
+  Follow Me On
+</p>
+<p align="center">
+  <a href="https://telegram.me/daredevilkinng">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="40" height="40">
+  </a>
+</p
   
   
   <p align="center">
