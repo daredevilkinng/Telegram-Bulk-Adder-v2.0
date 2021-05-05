@@ -58,7 +58,8 @@ When you're done adding. I'll suggest you to use those numbers after 25 hours to
   
   
   <p align="center">
-  Follow Me On YouTube
+                               For more advanced scripts follow me On YouTube
+                                          Click on icon below
 </p>
 <p align="center">
   <a href="https://www.youtube.com/watch?v=9JmiVXSLwGg">
