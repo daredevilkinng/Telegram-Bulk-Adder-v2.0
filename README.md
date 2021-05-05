@@ -39,7 +39,7 @@
 
 `python3 bulk.py --continue`
 
-# Pricse of software is 40USD$ 
+# Price of Telegram Bulk Adder V2.0 software is 32USD$ 
 
 # Note
 
@@ -55,6 +55,9 @@ When you're done adding. I'll suggest you to use those numbers after 25 hours to
 # Warning :warning:
 
 * This tool is completely professional to use.
+
+* If any dissapointment occours refund is available.
+
 
 # News
 
