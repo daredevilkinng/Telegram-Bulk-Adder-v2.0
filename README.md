@@ -79,3 +79,5 @@ When you're done adding. I'll suggest you to use those numbers after 25 hours to
 * Adding in private groups feature will be available soon
 
 * Seperate tool will be launched for Linux/Android(for private groups)
+
+* 200 fresh readymade otp ready all time for 80$
