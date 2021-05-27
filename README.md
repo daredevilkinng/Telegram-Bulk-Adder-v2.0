@@ -39,7 +39,7 @@
 
 `python3 bulk.py --continue`
 
-# Price of Telegram Bulk Adder V2.0 software is 32USD$ 
+# Price of Telegram Bulk Adder V2.0 software is 37USD$ 
 
 # Note
 
